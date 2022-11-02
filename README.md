@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/fea7a3fb87448e9a3f36c.jpg" alt="VelzzyBOT-MD" width="100"/>
+<img src="https://telegra.ph/file/angga.jpg" alt="VelzzyBOT-MD" width="100"/>
 
 
 </p>
