@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/angga.jpg" alt="VelzzyBOT-MD" width="100"/>
+<"VelzzyBOT-MD" width="100"/>
 
 
 </p>
