@@ -1,5 +1,5 @@
 <p align="center">
-<"VelzzyBOT-MD" width="100"/>
+VelzzyBOT-MD
 
 
 </p>
