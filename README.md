@@ -21,7 +21,7 @@
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=AnggaXyzZ&repo=Angga-md&theme=vision-friendly-dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=AnggaXyzZ&repo=AnggaMdV3&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=AnggaXyzZ&repo=AnggaDev-MdV3&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=AnggaXyzZ&repo=AnggaDev-Md&theme=nightowl)
 
 
 <details>
